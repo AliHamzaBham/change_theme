@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+
+.btns-container {
+    text-align:  center;
+    padding: 100px;
+}
+
+.btns-container button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0px 20px;
+    border: 1px solid #b6b6b6;
+}
+
+.btns-container .light-btn {
+    background: #dcdbdb;
+}
+.btns-container .dark-btn {
+    background: #252525;
+}
+
+.btns-container .blue-btn {
+    background: rgb(35, 35, 130);
+}
+
+.btns-container .pink-btn {
+    background: rgb(169, 108, 118);
+}
+
+.left {
+    height : 100vh;
+    width : 48%;;
+    border: 1px solid black;
+    float: left;
+}
+
+.right {
+    height : 100vh;
+    width : 48%;;
+    border: 1px solid black;
+    float: right;
+}
+
+.left .text, .right .text {
+    text-align: center;
+}
