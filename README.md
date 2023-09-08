@@ -1,1 +1,1 @@
-# Change theme using button using ReactJS
+# Change theme using buttons using ReactJS
